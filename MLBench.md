@@ -13,3 +13,6 @@ We study this question by presenting mlbench, a novel benchmark dataset construc
 <!--<b><a href="http://ease.ml/res/gan_paper.pdf">Paper PDF</a></b>-->
 
 
+# Full paper
+
+Visit: https://arxiv.org/abs/1707.09562
