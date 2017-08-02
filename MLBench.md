@@ -4,6 +4,7 @@ title: "ease.ml :: MLBench"
 slogan: "MLBench: How Good Are Machine Learning Clouds for Binary Classification with Good Features?"
 projname: "MLBench"
 paperlink: "https://arxiv.org/abs/1707.09562"
+paperbutton: ArXiv Version
 ---
 
 <b>Abstract:</b> We conduct an empirical study of machine learning functionalities provided by major cloud service providers, which we call em machine learning clouds. Machine learning clouds hold the promise of hiding all the sophistication of running large-scale machine learning: Instead of specifying how to run a machine learning task, users only specify what machine learning task to run and the cloud figures out the rest. Raising the level of abstraction, however, rarely comes free --- a performance penalty is possible. How good, then, are current machine learning clouds on real-world machine learning workloads? 
