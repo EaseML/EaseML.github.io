@@ -21,7 +21,7 @@ In our study, we use a methodology that allows us to separate measuring the perf
 
 We constructed mlbench, a benchmark for evaluating machine learning models on the clouds. We collected all winning codes for Kaggle competitions that are available online. We then ran the winning code and used their feature engineering code to extract features. Those features are arguably the best features one can get, as the winners used them to win the Kaggle competitions. mlbench consists of 7 sets of features from 6 Kaggle competions. We restrict the scope of our study to binary classification. We plan to extend it to multi-class classification and regression and add more datasets to mlbench.
 
-The MLBench dataset can be downloaded at: <a href="https://www.dropbox.com/s/31jol1wuz2mu2gf/MLbench.zip?dl=0">https://www.dropbox.com/s/31jol1wuz2mu2gf/MLbench.zip?dl=0</a>
+The MLBench dataset can be downloaded at: <a target="_blank" href="https://www.dropbox.com/s/31jol1wuz2mu2gf/MLbench.zip?dl=0">https://www.dropbox.com/s/31jol1wuz2mu2gf/MLbench.zip?dl=0</a>
 
 # Results
 
