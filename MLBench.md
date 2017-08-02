@@ -29,5 +29,5 @@ We evaluate the two most popular machine learning clouds, Azure Machine Learning
 
 # Learn More?
 
-Check out the full version on ArXiv <a href="https://arxiv.org/abs/1707.09562">https://arxiv.org/abs/1707.09562</a>
+Check out the full version on ArXiv <a target="_blank" href="https://arxiv.org/abs/1707.09562">https://arxiv.org/abs/1707.09562</a>
 
